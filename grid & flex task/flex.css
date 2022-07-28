@@ -5,10 +5,10 @@
 }
 
 header {
-    background-color: rgb(126, 126, 126);
+    background-color: rgb(99, 99, 99);
     display: flex;
     justify-items: center;
-    height: 80px;
+    height: 90px;
     justify-content: center;
 }
 header div {
@@ -18,10 +18,6 @@ header div {
     align-items: center;
     justify-content: space-between
 }
-
-/* header img {
-    display: inline-block;
-} */
 header ul {
     display: flex ;
     text-transform: capitalize;
@@ -30,7 +26,7 @@ header ul {
 }
 header ul li {
     padding: 20px; 
-    margin: 0 20px;
+    margin: 0 30px;
 }
 main {
     width: 960px;
@@ -80,7 +76,7 @@ main section:last-child article button {
     margin-top: 10px;
 }
 footer {
-    background-color: rgb(126, 126, 126);
+    background-color: rgb(99, 99, 99);
     height: 80px;
     width: 100%;
 }
